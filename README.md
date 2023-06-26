@@ -6,7 +6,6 @@ This is the solucion of Html make it real course.
 
 We should be able to create a 404 error found  page, the most similar to the picture sent by our mentors and it shoul be  wacth in the cellphone and the desktop. Then we  must write a README.md  file, talking about the way we  solve th problem.
  
- ![image](https://user-images.githubusercontent.com/126634947/232671937-5d1117e7-af47-45b9-8b8d-38e182259555.png)
 
 ### 2.My process
 
